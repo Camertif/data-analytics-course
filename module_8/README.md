@@ -87,4 +87,4 @@ In this section on dashboarding, you'll learn how to make visuals stand out, inc
 ## Assignment #7 
 
 - [x] Assignment #7 will be an in-class project at Domo HQ 🎉
-- [ ] Submit Dashboard created in class to: [data@tech-moms.org]
+- [x] Submit Dashboard created in class to: data@tech-moms.org
