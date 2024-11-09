@@ -1,21 +1,3 @@
-# Choose Your Adventure Week 
-
-This week is "Choose Your Adventure" week where you go deeper on a topic of your choice - either Data Visualization, SQL, BI tooling, Excel or Google Sheets, or even trying your hand at Python or R if you are interested! 
-Using our class format  - find a series of video lessons and watch and complete them. Then choose a data set and analyze it in your preferred tool, leveraging the video lesson you watched to complete the assignment. 
-
-# Video Lessons: 
-
-- [x] Alex the Analyst (https://youtu.be/WUeBzT43JyY?si=vqQCnRAK04gb_xYt)
-- [x] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermediate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
-
-# Assignment: 
-
-- [x] Choose a data set that interest you to analyze, using the skills you learned in the video lessons.
-- [x] Ideas for data sets include asking ChatGPT for a dataset for a certain topic or choosing a data set from "Tidy Tuesdays" [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/readme.md).
-- [x] Email your this edited README with your video lesson links and your completed assignment to data@tech-moms.org
-- [x] Celebrate! Learning how to learning is an important part of learning! 
-
-
 # Module 7: Intermediate Data Analytics Using Excel for a Non-Profit Organization
 
 # Video Lessons: 
@@ -29,8 +11,7 @@ Using our class format  - find a series of video lessons and watch and complete 
 
 **Module**: Intermediate Excel for Data Analytics with Tech-Mom's Data
 
-**Objective**:  
-Students will:
+**Students will**:
 - [x] Analyze real-world data from a non-profit organization.
 - [x] Apply intermediate Excel functions: **SUMIF**, **XLOOKUP**, and **IF statements**.
 - [x] Create charts and pivot tables to visualize non-profit data.
@@ -39,6 +20,7 @@ Students will:
 ---
 
 ## Scenario  
+
 The Leadership team is preparing to release their 2024 Tech Moms Survey Report. Survey reports are typically data-driven. They are important for non-profits because they provide transparency and demonstrate impact, which are crucial for sustaining donor support. The team needs to know the updated numbers for their student graduate survey. They share a .csv file titled [Tech-Moms Annual Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing). The team asks that you analyze the data and provide them with insights into the updated student demographic numbers.
 
 Your deliverable will be a “Student Survey” Dashboard built in the spreadsheet software of your choice - Excel or Google Sheets.
@@ -57,8 +39,9 @@ Your deliverable will be a “Student Survey” Dashboard built in the spreadshe
 - [x] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
 - [x] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
-### 2. Review Key Concepts:   
-Before working with the dataset, review these Excel functions:
+### 2. Review Key Concepts: 
+**Before working with the dataset, review these Excel functions:**
+
 - [x] **SUMIF**: Sums values based on a specific condition.
 - [x] **XLOOKUP**: Retrieves data from a table based on a lookup value (similar to VLOOKUP but more flexible).
 - [x] **IF Statements**: Allows for logical comparisons and returns different values based on whether a condition is met.
@@ -70,8 +53,9 @@ Before working with the dataset, review these Excel functions:
 
 ---
 
-### 3. Practice with Tech-Moms Survey Data:  
-Download the sample dataset . This dataset includes:
+### 3. Practice with Tech-Moms Survey Data: 
+
+**Download the sample dataset . This dataset includes:**
 - [x] **Student Enrollment**: Number of students per program.
 - [x] **Program Outcomes**: Success metrics for each program.
 
@@ -82,8 +66,9 @@ Download the sample dataset . This dataset includes:
 
 ---
 
-### 4. Create Visualizations:   
-Create visual representations of the data:
+### 4. Create Visualizations:  
+
+**Create visual representations of the data:**
 - [x] **Pivot Table**: Summarize the total student responses.
 - [x] **Bar Chart**: Compare income amounts by type (e.g. prior income, current income ).
 - [x] **Pie Chart**: Visualize the proportion of "Successful" versus "Needs Improvement" areas.
@@ -107,8 +92,9 @@ Create visual representations of the data:
 - [x] Write an email to the leadership team (data@tech-moms.org) sharing the updated numbers with a screenshot of the dashboard, along with a URL link and additional questions along with summary insights.
 - [x] Do a little happy dance - you’re crushing it!
 
-## Submission Guidelines:  
-Submit :
+## Submission Guidelines: 
+
+**Submit :**
 - **Excel File**: Include your dataset with XLOOKUP, SUMIF, and IF statements applied, as well as the visualizations.
 - **Dashboard**: Include a Dashboard (Word or PDF) containing your data analysis. 
 
