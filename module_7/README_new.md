@@ -1,12 +1,12 @@
 # Choose Your Adventure Week 
 
 This week is "Choose Your Adventure" week where you go deeper on a topic of your choice - either Data Visualization, SQL, BI tooling, Excel or Google Sheets, or even trying your hand at Python or R if you are interested! 
-Using our class format  - find a series of video lessons and watch and complete them. Then choose a data set and analyze it in your prefered tool, leveraging the video lesson you watched to complete the assignment. 
+Using our class format  - find a series of video lessons and watch and complete them. Then choose a data set and analyze it in your preferred tool, leveraging the video lesson you watched to complete the assignment. 
 
 # Video Lessons: 
 
 - [x] Alex the Analyst (https://youtu.be/WUeBzT43JyY?si=vqQCnRAK04gb_xYt)
-- [x] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
+- [x] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermediate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
 
@@ -77,7 +77,7 @@ Download the sample dataset . This dataset includes:
 
 **Tasks**:
 1. [x] Use **XLOOKUP** to find which students found the program useful.
-2. [x] Apply the **SUMIF** function to calculate total score from students quantive resports.
+2. [x] Apply the **SUMIF** function to calculate total score from students quantitative response.
 3. [x] Create an **IF statement** to label programs as "Successful" or "Needs Improvement" based on their outcome scores (e.g., IF score >= 80, then “Successful”).
 
 ---
