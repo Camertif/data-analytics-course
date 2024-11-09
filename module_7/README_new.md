@@ -47,7 +47,7 @@ Your deliverable will be a “Student Survey” Dashboard built in the spreadshe
 
 ## Instructions for Students
 
-### 1. Get to Know Your Data
+### 1. Get to Know Your Data:
 
 - [x] Review the Tech Moms 2024 Annual Survey Report - paying special attention to the Student Demographic sections
 - [x] Download the [Tech-Moms Annual Survey Data]
@@ -57,7 +57,7 @@ Your deliverable will be a “Student Survey” Dashboard built in the spreadshe
 - [x] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
 - [x] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
-### 2. Review Key Concepts   
+### 2. Review Key Concepts:   
 Before working with the dataset, review these Excel functions:
 - [x] **SUMIF**: Sums values based on a specific condition.
 - [x] **XLOOKUP**: Retrieves data from a table based on a lookup value (similar to VLOOKUP but more flexible).
@@ -82,20 +82,20 @@ Download the sample dataset . This dataset includes:
 
 ---
 
-### 4. Create Visualizations   
+### 4. Create Visualizations:   
 Create visual representations of the data:
 - [x] **Pivot Table**: Summarize the total student responses.
 - [x] **Bar Chart**: Compare income amounts by type (e.g. prior income, current income ).
 - [x] **Pie Chart**: Visualize the proportion of "Successful" versus "Needs Improvement" areas.
 
 ---
-### 5: Create Charts & Build a Dashboard
+### 5: Create Charts & Build a Dashboard:
 
 - [x] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
 - [x] Review the Annual Survey Report again and make a list of what was reported.
 - [x] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
 
-### 6: Make it Aesthetic
+### 6: Make it Aesthetic:
 
 - [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
 - [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
@@ -107,7 +107,7 @@ Create visual representations of the data:
 - [x] Write an email to the leadership team (data@tech-moms.org) sharing the updated numbers with a screenshot of the dashboard, along with a URL link and additional questions along with summary insights.
 - [x] Do a little happy dance - you’re crushing it!
 
-## Submission Guidelines  
+## Submission Guidelines:  
 Submit :
 - **Excel File**: Include your dataset with XLOOKUP, SUMIF, and IF statements applied, as well as the visualizations.
 - **Dashboard**: Include a Dashboard (Word or PDF) containing your data analysis. 
