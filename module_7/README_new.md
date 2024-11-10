@@ -40,6 +40,7 @@ Your deliverable will be a “Student Survey” Dashboard built in the spreadshe
 - [x] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
 ### 2. Review Key Concepts: 
+
 **Before working with the dataset, review these Excel functions:**
 
 - [x] **SUMIF**: Sums values based on a specific condition.
