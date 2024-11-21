@@ -12,10 +12,10 @@ The capstone project for our data analytics course offers a practical, hands-on 
   - [x]  **Project Execution:**  
    Once the business or non-profit agrees, students will collect the relevant data and begin their analysis. This phase should take approximately two weeks, during which students will apply the skills learned in the course, including data cleaning, analysis, and visualization.
 
-- [ ]  **Presentation:**  
+- [x]  **Presentation:**  
    After completing the analysis, students will set up a call with the business or non-profit to present their findings. The presentation should include a clear explanation of the analysis performed, key insights, and any visualizations created (such as dashboards or charts).
 
-- [ ]  **Feedback and Refinement:**  
+- [x]  **Feedback and Refinement:**  
    Following the presentation, students will gather feedback from the organization. If any adjustments or refinements are needed, students will have a short period to make these changes and deliver the final product.
 
 ## Project Goals
